@@ -1,0 +1,72 @@
+@media screen and (max-width: 1170px) {#bannerHead {display: none;}
+	.inner-wrap {width: 92%;}
+	.flex-direction-nav .flex-prev {opacity: 1;left: 0;}
+	.flex-direction-nav .flex-next {opacity: 1;right: 0;}
+	.navbar-brand img {max-width: 100%;height: auto;}
+	#content {width: 65%;}
+	#sidebar {width: 30%;}
+	.recent-posts li {margin: 0 2.8% 30px 0;width: 31%;}
+	.recent-posts .post-thumb img {max-width: 100%;height: auto;}
+	.full-width .recent-posts li {margin: 0 2% 30px 0;width: 23%;}
+	.full-width .recent-posts li:nth-child(3n+3) {margin-right: 2%;}
+	div.zoomvideo_big {padding: 0;}
+	.zoomvideo .wp-video {width: 100% !important;height: auto !important;}}
+@media (min-width: 981px) {#menu-top-slide {display: none !important;}
+	#menu-main-slide {display: none !important;}}
+@media screen and (max-width: 980px) {#menu-top-slide {text-indent: -9999px;height: 0;}
+	#menu-main-slide {text-indent: -9999px;height: 0;}
+	#menu-top-slide.mm-menu {text-indent: 0;height: 100%;}
+	#menu-main-slide.mm-menu {text-indent: 0;height: 100%;}
+	#content {width: 100%;float: none;}
+	#sidebar {width: 100%;float: none;margin-top: 80px;}
+	#navbar-top, #navbar-main {display: none;}
+	.navbar-toggle {display: block;}
+	#slider img {max-width: 100%;height: auto;margin-bottom: 20px;}
+	#slider .video-cover, #slider .wp-video {width: 100%;margin: 0 0 20px;}
+	#slider .post-content {overflow: visible;}
+	#slider .video-cover {position: relative;padding-bottom: 56.25%;padding-top: 30px;height: 0;overflow: hidden;}
+	#slider .video-cover iframe, #slider .video-cover object, #slider .video-cover embed {position: absolute;top: 0;left: 0;width: 100%;height: 100%;}
+	#slider .wp-video {width: 100% !important;height: auto !important;}
+	.footer-widgets.widget-columns-7 .column {width: 48%;margin-right: 3%;}
+	.footer-widgets.widget-columns-7 .column:nth-child(2n+2) {margin-right: 0;}}
+@media screen and (max-width: 768px) {.navbar-brand h1 {font-size: 60px;}
+	.recent-posts h2 {font-size: 16px !important;}
+	#slider h2.entry-title {font-size: 22px;}
+	.inner-wrap {width: 88%;}
+	.post-entry h1.entry-title {font-size: 24px !important;}
+	.entry-content blockquote {font-size: 16px;padding-left: 10%;}
+	.post-entry .meta-share {text-align: left;}
+	.post-entry .meta-share h3 {float: none;display: block;margin: 0 0 15px;}
+	.post-entry .meta-share a {float: left;margin: 0 15px 0 0;}
+	#respond input[type="text"] {width: 100%;}
+	#featured-slider {padding: 10px 0 0;}
+	#slider {padding: 0 10px;}
+	.full-width .recent-posts li {margin: 0 2% 30px 0;width: 31%;}
+	.full-width .recent-posts li:nth-child(3n+3) {margin-right: 0;}
+	.full-width .recent-posts li:nth-child(4n+4) {margin-right: 2%;}
+	.footer-widgets.widget-columns-6 .column {width: 100%;margin-right: 0;}}
+@media screen and (max-width: 640px) {div.navigation {font-size: 12px;}
+	div.navigation a {padding: 10px 5px;}
+	.inner-wrap {width: 80%;}
+	.navbar-brand h1 {font-size: 40px;}
+	#slider p {display: none;}
+	#slider .more-link {display: none;}
+	#carousel {display: none;}
+	#slider h2.entry-title {font-size: 16px !important;}
+	.recent-posts li {width: 100%;margin: 0 0 25px;display: block;clear: both;}
+	.recent-posts .post-thumb {float: left;margin: 0 15px 0 0;width: 30%;}
+	.recent-posts .post-thumb img {-webkit-border-radius: 3px;border-radius: 3px;}
+	.recent-posts .post-content {background: none;padding: 0;overflow: hidden;}
+	.recent-posts .post-content p {display: none;}
+	.recent-posts li:hover .post-content {background: none;}
+	.full-width .recent-posts li {margin-right: 0;width: 100%;}
+	.full-width .recent-posts li:nth-child(3n+3) {margin-right: 0;}
+	.full-width .recent-posts li:nth-child(4n+4) {margin-right: 0;}
+	.post-entry .meta-share li {display: block;}
+	.post-entry .meta-share a {float: none;margin: 0 0 15px;display: inline-block;}
+	.post_author span.author_links {padding: 0;}
+	.footer-widgets.widget-columns-7 .column {width: 100%;margin-right: 0;}
+	.footer-widgets .column:nth-child(2n+2) {margin-right: 0;}
+	.footer-widgets.widget-columns-5 .column {width: 100%;margin-right: 0;}
+	#footer .site-copyright {float: none;display: block;margin: 0 0 10px;}
+	#footer .wpzoom {float: none;}}

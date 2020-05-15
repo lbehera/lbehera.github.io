@@ -1,0 +1,49 @@
+body {background: #fff;color: #555;}
+a {color: #2d87cc;}
+a:hover {color: #333;}
+h1, h2, h3, h4, h5, h6 {color: #333;}
+.recent-posts .post-content {background: none;padding: 10px 0;}
+.recent-posts li:hover .post-content {background: none;}
+.recent-posts h2 a {color: #333;}
+.recent-posts h2 a:hover {color: #2d87cc;}
+.post-entry h1.entry-title {border-bottom: 1px solid #dfdfdf;}
+.post-entry h1.entry-title a {color: #333;}
+.post-entry h1.entry-title a:hover {color: #2d87cc;}
+.entry-content {color: #555;}
+.post-entry .meta-share {border-color: #dfdfdf;}
+.entry-content blockquote {border-color: #dfdfdf;}
+.post-entry .meta-share h3 {color: #333;}
+.post_author {background: #f2f2f2;}
+.post_author span {color: #333;}
+.post_author p {border-color: #dfdfdf;}
+.wpzoom_media li a.active {color: #333;}
+.wpzoom_media li a:hover {color: #333;}
+.wpzoom_media li {border-color: #dfdfdf;}
+input, textarea {background-color: #fff;border: 2px solid #dfdfdf;color: #333;}
+#comments > h3 {border-color: #dfdfdf;}
+.comment-author .fn, .comment-author .fn a {color: #333;}
+.comment-author .fn a:hover {color: #2d87cc;}
+.comment-author .comment-meta, .comment-author .comment-meta a {color: #aaa;}
+.comment-author .comment-meta a:hover {color: #2d87cc;}
+.commentlist .comment:after {border-color: #dfdfdf;}
+.navbar-brand a {color: #222;}
+.navbar-brand a:hover {color: #333;}
+.top-navbar, .main-navbar {border: none;}
+#sidebar .widget h3.title {color: #333;border-color: #dfdfdf;}
+#sidebar .widget .feature-posts-list li {border-bottom: 1px solid #dfdfdf;}
+#sidebar .widget .feature-posts-list li a {color: #333;}
+#sidebar .widget .feature-posts-list li a:hover {color: #2d87cc;}
+#sidebar .widget .twitter-list li {border-bottom: 1px solid #dfdfdf;}
+#sidebar .widget .twitter-list .twitter-timestamp {color: #aaa;}
+#sidebar .widget .twitter-list .twitter-timestamp:hover {color: #333;}
+#sidebar .wpzoomSocial li a {color: #333;}
+#sidebar .wpzoomSocial li a:hover {color: #2d87cc;}
+#footer {color: #888;}
+.gform_wrapper li.gfield, .gform_wrapper form li.gfield {background: #f2f2f2;border: 0 none;}
+.gform_wrapper .top_label .gfield_label {font-size: 16px !important;font-weight: normal;color: #333;}
+#main .gform_wrapper li.gfield.gfield_error, #main .gform_wrapper li.gfield.gfield_error.gfield_contains_required.gfield_creditcard_warning {background: none;padding: 0 !important;border: 0 none;}
+.gform_wrapper .top_label .gfield_error {width: auto !important;}
+#main input[type="file"] {background: none;border: none;}
+.gform_wrapper .gfield_error .gfield_label {color: #a31b1b !important;}
+.gform_wrapper li.gfield.gfield_error .gfield_description {color: #a31b1b !important;}
+.gform_wrapper .validation_error {color: #a31b1b !important;}

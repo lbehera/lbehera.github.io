@@ -1,0 +1,5 @@
+.list-table-checkbox-wrapper .dashicons-star-empty:hover::before {content: "";}
+.list-table-checkbox-wrapper .dashicons-star-empty.active:hover::before {content: "";}
+.list-table-checkbox-wrapper .dashicons-star-filled.active:hover::before {content: "";}
+.list-table-checkbox-wrapper .dashicons-star-filled:hover::before {content: "";}
+.list-table-checkbox-wrapper .list-table-checkbox {display: none;}
